@@ -1,0 +1,11 @@
+matplotlib
+
+
+Install: pip install -r requirements.txt
+Run Project:- python password_checker.py
+Example Output
+              Strength: MEDIUM (Score: 5/7)
+
+Suggestions:
+- Add special symbols
+- Use more characters
